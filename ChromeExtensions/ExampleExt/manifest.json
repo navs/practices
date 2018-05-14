@@ -1,0 +1,16 @@
+{
+  "name" : "Getting Started Examlple", 
+  "version" : "1.0",
+  "description" : "Build an Extension!",
+  "permissions" : ["storage"],
+
+  "background" : {
+    "scripts" : ["background.js"],
+    "persistent" : false
+  },
+
+  "manifest_version" : 2
+}
+
+
+
